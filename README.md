@@ -1,10 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Breno Bonani 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I'm currently looking to work on front/back-end web development
+- 🔭 I'm currently looking to work on any front/back-end web development
 - 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on any front/back-end web development
 - 💬 Ask me about anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/brenobonani/)
 - ⚡ Fun fact: I love to learn new things! :)
