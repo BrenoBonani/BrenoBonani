@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning React.js
 - 💬 Ask me about anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/brenobonani/)
+- 🖥 My personal website: (brenobonani.dev)
 - ⚡ Fun fact: I love to learn new things! :)
 
 
