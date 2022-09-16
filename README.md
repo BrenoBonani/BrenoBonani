@@ -1,7 +1,7 @@
 ### Hi there, I'm Breno Bonani 👋
 
-- 🔭 I'm currently looking to work on any front/back-end web development
-- 🌱 I’m currently learning React.js
+- 🔭 I'm currently working as backend dev Nodejs at OnTick Invest
+- 🌱 I’m currently learning AWS
 - 💬 Ask me about anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/brenobonani/)
 - 🖥 My personal website: [brenobonani.dev](https:///brenobonani.dev)
