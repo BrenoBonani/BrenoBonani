@@ -1,7 +1,7 @@
 ### Hi there, I'm Breno Bonani 👋
 
 - 🔭 I'm currently working as backend dev Nodejs at OnTick Invest
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Vuejs
 - 💬 Ask me about anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/brenobonani/)
 - 🖥 My personal website: [brenobonani.dev](https:///brenobonani.dev)
